@@ -1,3 +1,0 @@
-/home/egor/Code/rust/rustlings/devenv.lock
-/home/egor/Code/rust/rustlings/devenv.nix
-/home/egor/Code/rust/rustlings/devenv.yaml
